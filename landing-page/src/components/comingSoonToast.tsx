@@ -34,13 +34,6 @@ export function ComingSoonToast() {
           gap: "12px", // Space between the image and text
         }}
       >
-        <Image
-          src="/rocket-icon.png" // Replace with the path to your image
-          alt="Rocket"
-          width={40} // Adjust size of the image
-          height={40}
-          className="object-contain"
-        />
         <div>
           <p>🚀 التطبيق قادم قريبًا!</p>
           <p>سيتم إطلاقه في 12 مارس</p>
