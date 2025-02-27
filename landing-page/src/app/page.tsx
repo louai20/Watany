@@ -27,7 +27,7 @@ export default function LandingPage() {
   }, [])
 
   if (!mounted) {
-    return null // or a loading state
+    return null // or a loading state.
   }
 
   return (
